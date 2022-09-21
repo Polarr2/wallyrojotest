@@ -1,9 +1,9 @@
 [package]
-name = "polarr2/test"
-version = "0.0.2"
+name = "polarr2/wallyrojotest"
+version = "0.0.31"
 registry = "https://github.com/UpliftGames/wally-index"
 realm = "shared"
 
 [dependencies]
 Knit = "sleitnick/knit@^1"
-test = "polarr2/test@0.0.2"
+test = "polarr2/test@0.0.31"
